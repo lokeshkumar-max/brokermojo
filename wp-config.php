@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'brokermojo' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'dbmasteruser' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'brokermojo@!@#$%' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'ls-437f8bb381fb1f11424f0113eb1331986cc03835.cpe6aiq4un06.ap-south-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
