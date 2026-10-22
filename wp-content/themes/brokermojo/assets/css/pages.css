@@ -1,0 +1,12 @@
+/* Inner pages only (privacy, blog, 404…). Never loaded on the home page. */
+.bm-page{padding-top:clamp(130px,14vw,180px); min-height:70vh}
+.bm-page .wrap{max-width:52rem}
+.bm-page__title{margin-bottom:clamp(24px,3vw,40px)}
+.bm-page__item + .bm-page__item{margin-top:48px; padding-top:48px; border-top:1px solid var(--line)}
+.bm-page__content{font-size:17px; line-height:1.7}
+.bm-page__content > * + *{margin-top:1em}
+.bm-page__content h2,.bm-page__content h3{margin-top:1.6em}
+.bm-page__content a{color:var(--brand); text-decoration:underline}
+.bm-page__content ul,.bm-page__content ol{padding-left:1.3em}
+.bm-page__content img{height:auto; border-radius:14px}
+.bm-page__nav{margin-top:48px}
