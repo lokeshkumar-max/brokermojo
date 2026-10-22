@@ -26,7 +26,7 @@ define( 'DB_NAME', 'brokermojo' );
 define( 'DB_USER', 'dbmasteruser' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'brokermojo@!@#$%' );
+define( 'DB_PASSWORD', 'Ppdrgb{(|U:^~M0:SfvSxlE:DG4n:+o1' );
 
 /** Database hostname */
 define( 'DB_HOST', 'ls-437f8bb381fb1f11424f0113eb1331986cc03835.cpe6aiq4un06.ap-south-1.rds.amazonaws.com' );
